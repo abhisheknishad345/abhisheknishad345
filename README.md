@@ -40,7 +40,6 @@ I enjoy building practical applications, designing REST APIs, working with datab
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=flat-square&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Tools & Technologies
 
@@ -119,12 +118,13 @@ I especially enjoy understanding how the different layers of a web application w
 ---
 
 ## 📊 GitHub
+## 🔗 Connect With Me
 
-You can find my projects, experiments and development work here:
+You can find my projects, coding practice and professional profile here:
 
-**GitHub:** https://github.com/abhisheknishad345
-**Leetcode:** https://leetcode.com/u/abhishek424
-**Linkedin:** https://linkedin.com/in/abhishek-nishad-996123352
+- **GitHub:** [abhisheknishad345](https://github.com/abhisheknishad345)
+- **LeetCode:** [abhishek424](https://leetcode.com/u/abhishek424)
+- **LinkedIn:** [Abhishek Nishad](https://www.linkedin.com/in/abhishek-nishad-996123352/)
 
 ---
 
